@@ -14,6 +14,6 @@ public class Edge {
 		driver.manage().window().maximize();
 		
 		driver.get("http://demoqa.com/registration/");
-
+System.out.println("suma");
 }
 }
